@@ -24,7 +24,7 @@
 
 ### TkinterSkelecton
 
-SkelectonBlasttest-phl-apiMeleefyinformationMeleeccWraith
+VampiricBlasttest-phl-apiMeleefyinformationMeleeccWraith
 
 
 
