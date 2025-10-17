@@ -24,8 +24,7 @@
 
 ### TkinterSkelecton
 
-VampiricBlasttest-phl-apiMeleefyinformationMeleeccWraith
-
+SkelectonBlastaffinitylendMeleeicuMeleeccWraith
 
 | Massive Thanks to all the People who Donated to help this Project 😇 |
 |----------------------------------------------|
