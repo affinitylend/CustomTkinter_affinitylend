@@ -24,7 +24,7 @@
 
 ### TkinterSkelecton
 
-VampiricBlastaffinitylendMeleeicuWraith
+VampiricBlastaapiMeleeffinitylendMeleeicuWraith
 
 | Massive Thanks to all the People who Donated to help this Project 😇 |
 |----------------------------------------------|
